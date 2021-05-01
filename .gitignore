@@ -1,0 +1,14 @@
+*.avi
+*.mp4
+*.jpg
+*.png
+*.csv
+*.hdf5
+test/
+test_photos/
+videos/
+videos_for_dataset/
+mouth_models/
+not_face/
+joohyeong_set1/
+/check_points
